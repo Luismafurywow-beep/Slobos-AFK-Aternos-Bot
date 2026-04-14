@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "RenegadosBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Renegados-Y9Hh.aternos.me",
